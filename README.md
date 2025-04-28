@@ -1,4 +1,4 @@
-# ☕ Projeto de Aprendizado - Programação Orientada a Objetos em Java
+# ☕ AluraPOO - Programação Orientada a Objetos em Java
 
 Este repositório contém os códigos e exercícios desenvolvidos durante o curso de **Programação Orientada a Objetos (POO) em Java** da Alura.
 
