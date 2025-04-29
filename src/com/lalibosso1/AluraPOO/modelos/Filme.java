@@ -34,7 +34,7 @@ public class Filme {
     }
 
     public void setAnoDeLancamento(int anoDeLancamento) {
-        this.anoDeLancamento = anoDeLancamento;
+        this.anoDeLancamento = anoDeLancamento;;
     }
 
     public void setDuracaoEmMinutos(int duracaoEmMinutos) {
